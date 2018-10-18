@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="23193636-6507-4108-9977-a3e3ece80081" name="Default Changelist" comment="Test - can we both do stuff in Unity? In the same scene?">
       <change beforePath="$PROJECT_DIR$/Studio1_WalkingSim/Assets/Scenes/TestScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Studio1_WalkingSim/Assets/Scenes/TestScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Studio1_WalkingSim/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Studio1_WalkingSim/ProjectSettings/EditorSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Studio1_WalkingSim/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Studio1_WalkingSim/ProjectSettings/InputManager.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
