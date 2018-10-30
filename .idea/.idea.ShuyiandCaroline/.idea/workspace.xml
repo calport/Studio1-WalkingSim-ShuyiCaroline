@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23193636-6507-4108-9977-a3e3ece80081" name="Default Changelist" comment="Test - can we both do stuff in Unity? In the same scene?">
-      <change afterPath="$PROJECT_DIR$/Studio1_WalkingSim/.idea/.idea.Studio1_WalkingSim/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ShuyiandCaroline/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ShuyiandCaroline/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Studio1_WalkingSim/.idea/.idea.Studio1_WalkingSim/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Studio1_WalkingSim/.idea/.idea.Studio1_WalkingSim/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Studio1_WalkingSim/Assets/Scenes/TestScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Studio1_WalkingSim/Assets/Scenes/TestScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Studio1_WalkingSim/Assets/Skinner/Internal/Default Skinner Particle Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Studio1_WalkingSim/Assets/Skinner/Internal/Default Skinner Particle Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Studio1_WalkingSim/Assets/Skinner/Internal/Default Skinner Trail Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Studio1_WalkingSim/Assets/Skinner/Internal/Default Skinner Trail Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Studio1_WalkingSim/Assets/Skinner/Internal/Skinner Source Placeholder.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Studio1_WalkingSim/Assets/Skinner/Internal/Skinner Source Placeholder.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Studio1_WalkingSim/Assets/Standard Assets/Characters/FirstPersonCharacter/Prefabs/FPSController.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Studio1_WalkingSim/Assets/Standard Assets/Characters/FirstPersonCharacter/Prefabs/FPSController.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Studio1_WalkingSim/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Studio1_WalkingSim/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Studio1_WalkingSim/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Studio1_WalkingSim/ProjectSettings/ProjectSettings.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,10 +22,12 @@
     <session id="234651222">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -46,15 +56,18 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Studio1_WalkingSim/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-572" />
+          </provider>
         </entry>
       </file>
     </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -128,6 +141,7 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Studio1_WalkingSim/Assets/Scenes/TestScene.unity</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Created" />
@@ -135,13 +149,41 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Studio1_WalkingSim/Assets/Materials.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Studio1_WalkingSim/Assets/Materials/Ground.mat</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Studio1_WalkingSim/Assets/Materials/Ground.mat.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Studio1_WalkingSim/Assets/Scenes/TestScene.unity</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Studio1_WalkingSim/Assets/Scenes/TestScene.unity.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Studio1_WalkingSim/Assets/TestModel.obj</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Studio1_WalkingSim/Assets/TestModel.obj.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Inspiration Pics/afd97383ly1fwj1d3vabgj20kb0sgjxr.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Materials/Aluminum-Scuffed_Unity.zip</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Materials/Aluminum-Scuffed_Unity/About these PBR files.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Materials/Aluminum-Scuffed_Unity/Aluminum-Scuffed_basecolor.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Materials/Aluminum-Scuffed_Unity/Aluminum-Scuffed_metallic.psd</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Materials/Aluminum-Scuffed_Unity/Aluminum-Scuffed_normal.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Materials/concrete2-dx.zip</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Materials/concrete2-ogl.zip</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Materials/concrete2-ogl/About these PBR files.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Materials/concrete2-ogl/concrete2-ao.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Materials/concrete2-ogl/concrete2_Height.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Materials/concrete2-ogl/concrete2_Metallic.psd</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Materials/concrete2-ogl/concrete2_Normal-ogl.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Materials/concrete2-ogl/concrete2_albedo.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Studio1_WalkingSim/Assets/Materials/Concrete.mat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Studio1_WalkingSim/Assets/Materials/Concrete.mat.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Studio1_WalkingSim/Assets/Materials/concrete2-dx.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Studio1_WalkingSim/Assets/Materials/concrete2-dx/About these PBR files.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Studio1_WalkingSim/Assets/Materials/concrete2-dx/About these PBR files.txt.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Studio1_WalkingSim/Assets/Materials/concrete2-dx/concrete2-ao.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Studio1_WalkingSim/Assets/Materials/concrete2-dx/concrete2-ao.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Studio1_WalkingSim/Assets/Materials/concrete2-dx/concrete2_Height.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Studio1_WalkingSim/Assets/Materials/concrete2-dx/concrete2_Height.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Studio1_WalkingSim/Assets/Materials/concrete2-dx/concrete2_Metallic.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Studio1_WalkingSim/Assets/Materials/concrete2-dx/concrete2_Metallic.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Studio1_WalkingSim/Assets/Materials/concrete2-dx/concrete2_Normal-dx.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Studio1_WalkingSim/Assets/Materials/concrete2-dx/concrete2_Normal-dx.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Studio1_WalkingSim/Assets/Materials/concrete2-dx/concrete2_Roughness.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Studio1_WalkingSim/Assets/Materials/concrete2-dx/concrete2_Roughness.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Studio1_WalkingSim/Assets/Materials/concrete2-dx/concrete2_albedo.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Studio1_WalkingSim/Assets/Materials/concrete2-dx/concrete2_albedo.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Studio1_WalkingSim/Assets/ModelM.obj</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Studio1_WalkingSim/Assets/ModelM.obj.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Studio1_WalkingSim/Assets/ProCore/ProBuilder/Data/Default Material Palette.asset</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Studio1_WalkingSim/Assets/ProCore/ProBuilder/Data/Default Material Palette.asset.meta</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Deleted" />
@@ -255,6 +297,8 @@
       <workItem from="1539281117613" duration="1684000" />
       <workItem from="1539286803589" duration="1325000" />
       <workItem from="1539886245323" duration="1330000" />
+      <workItem from="1540169530351" duration="254000" />
+      <workItem from="1540491771319" duration="475000" />
     </task>
     <task id="LOCAL-00001" summary="Unity files included here">
       <created>1539284531601</created>
@@ -288,7 +332,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4339000" />
+    <option name="totallyTimeSpent" value="5068000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -302,7 +346,7 @@
   <component name="ToolWindowManager">
     <frame x="30" y="23" width="1579" height="963" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2563435" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26284972" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -311,10 +355,10 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49967468" visible="true" weight="0.3295063" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49967468" weight="0.3295063" />
       <window_info anchor="bottom" id="NuGet" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.3295063" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unit Tests" order="11" />
       <window_info anchor="bottom" id="Terminal" order="12" />
@@ -356,7 +400,9 @@
     <entry file="file://$PROJECT_DIR$/2_brion pavillion.jpg" />
     <entry file="file://$PROJECT_DIR$/ArchitectureReference.png" />
     <entry file="file://$PROJECT_DIR$/Studio1_WalkingSim/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-572" />
+      </provider>
     </entry>
   </component>
 </project>

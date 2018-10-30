@@ -1,7 +1,146 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" line="193" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e032acf-0074-419a-97e7-8187b1063bbd" name="Default Changelist" comment="" />
+    <list default="true" id="0e032acf-0074-419a-97e7-8187b1063bbd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea.ShuyiandCaroline/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.idea.ShuyiandCaroline/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Studio1_WalkingSim/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Studio1_WalkingSim/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/TestScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/TestScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Editor/SkinnerDebugEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Editor/SkinnerDebugEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Editor/SkinnerGlitchEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Editor/SkinnerGlitchEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Editor/SkinnerGlitchTemplateEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Editor/SkinnerGlitchTemplateEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Editor/SkinnerModelEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Editor/SkinnerModelEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Editor/SkinnerParticleEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Editor/SkinnerParticleEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Editor/SkinnerParticleTemplateEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Editor/SkinnerParticleTemplateEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Editor/SkinnerSourceEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Editor/SkinnerSourceEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Editor/SkinnerTrailEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Editor/SkinnerTrailEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Editor/SkinnerTrailTemplateEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Editor/SkinnerTrailTemplateEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Internal.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Internal/CullingStateController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Internal/CullingStateController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Internal/Default Skinner Glitch Material.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Internal/Default Skinner Glitch Material.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Internal/Default Skinner Particle Material.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Internal/Default Skinner Particle Material.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Internal/Default Skinner Particle Template.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Internal/Default Skinner Particle Template.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Internal/Default Skinner Trail Material.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Internal/Default Skinner Trail Material.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Internal/Default Skinner Trail Template.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Internal/Default Skinner Trail Template.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Internal/Quad.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Internal/Quad.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Internal/Skinner Glitch Template.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Internal/Skinner Glitch Template.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Internal/Skinner Source Placeholder.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Internal/Skinner Source Placeholder.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Internal/SkinnerGlitchTemplate.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Internal/SkinnerGlitchTemplate.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Internal/SkinnerInternals.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Internal/SkinnerInternals.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Models/Shard1.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Models/Shard1.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Models/Shard2.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Models/Shard2.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Models/Shard3.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Models/Shard3.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Models/Shard4.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Models/Shard4.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Models/Shard5.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Models/Shard5.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Models/Shard6.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Models/Shard6.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Models/Shard7.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Models/Shard7.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Models/Shard8.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Models/Shard8.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/Common.cginc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/Common.cginc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/Debug.cginc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/Debug.cginc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/Debug.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/Debug.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/GlitchKernels.cginc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/GlitchKernels.cginc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/GlitchKernels.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/GlitchKernels.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/GlitchSurface.cginc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/GlitchSurface.cginc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/GlitchSurface.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/GlitchSurface.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/ParticleKernels.cginc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/ParticleKernels.cginc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/ParticleKernels.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/ParticleKernels.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/ParticleMotion.cginc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/ParticleMotion.cginc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/ParticleSurface.cginc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/ParticleSurface.cginc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/ParticleSurfaceStandard.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/ParticleSurfaceStandard.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/ParticleSurfaceTwoSided.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/ParticleSurfaceTwoSided.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/Replacement.cginc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/Replacement.cginc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/Replacement.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/Replacement.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/ReplacementNormal.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/ReplacementNormal.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/ReplacementPosition.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/ReplacementPosition.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/ReplacementTangent.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/ReplacementTangent.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/SimplexNoiseGrad3D.cginc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/SimplexNoiseGrad3D.cginc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/SourcePlaceholder.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/SourcePlaceholder.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/TrailKernels.cginc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/TrailKernels.cginc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/TrailKernels.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/TrailKernels.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/TrailMotion.cginc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/TrailMotion.cginc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/TrailSurface.cginc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/TrailSurface.cginc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/TrailSurface.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/Shader/TrailSurface.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/SkinnerDebug.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/SkinnerDebug.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/SkinnerGlitch.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/SkinnerGlitch.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/SkinnerModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/SkinnerModel.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/SkinnerParticle.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/SkinnerParticle.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/SkinnerParticleTemplate.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/SkinnerParticleTemplate.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/SkinnerSource.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/SkinnerSource.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/SkinnerTrail.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/SkinnerTrail.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/SkinnerTrailTemplate.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Skinner/SkinnerTrailTemplate.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Prefabs/FPSController.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Prefabs/FPSController.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonUserControl.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonUserControl.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,31 +151,36 @@
     <session id="-1913151611">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="3" />
+          <entry key="cginc" value="1" />
+          <entry key="cs" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="3" />
+          <entry key="C#" value="8" />
+          <entry key="Cg" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="301" />
+          <entry key="cs" value="1127" />
           <entry key="txt" value="395" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="301" />
+          <entry key="C#" value="1127" />
           <entry key="PLAIN_TEXT" value="395" />
         </counts>
       </usages-collector>
@@ -47,42 +191,115 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+            <state relative-caret-position="259">
+              <caret line="114" column="61" lean-forward="true" selection-start-line="114" selection-start-column="61" selection-end-line="114" selection-end-column="61" />
               <folding>
-                <marker date="1539890660249" expanded="false" signature="6:148" ph="..." />
-                <marker date="1539890660249" expanded="true" signature="202:9900" ph="{...}" />
-                <marker date="1539890660249" expanded="true" signature="357:9898" ph="{...}" />
-                <marker date="1539890660249" expanded="true" signature="2400:3043" ph="{...}" />
-                <marker date="1539890660249" expanded="true" signature="3118:3859" ph="{...}" />
-                <marker date="1539890660249" expanded="true" signature="3258:3363" ph="{...}" />
-                <marker date="1539890660249" expanded="true" signature="3439:3628" ph="{...}" />
-                <marker date="1539890660249" expanded="true" signature="3717:3779" ph="{...}" />
-                <marker date="1539890660249" expanded="true" signature="3901:4045" ph="{...}" />
-                <marker date="1539890660249" expanded="true" signature="4082:5576" ph="{...}" />
-                <marker date="1539890660249" expanded="true" signature="4916:5220" ph="{...}" />
-                <marker date="1539890660249" expanded="true" signature="5012:5206" ph="{...}" />
-                <marker date="1539890660249" expanded="true" signature="5237:5351" ph="{...}" />
-                <marker date="1539890660249" expanded="true" signature="5615:5715" ph="{...}" />
-                <marker date="1539890660249" expanded="true" signature="5769:6282" ph="{...}" />
-                <marker date="1539890660249" expanded="true" signature="5882:6084" ph="{...}" />
-                <marker date="1539890660249" expanded="true" signature="6130:6182" ph="{...}" />
-                <marker date="1539890660249" expanded="true" signature="6325:6914" ph="{...}" />
-                <marker date="1539890660249" expanded="true" signature="6386:6438" ph="{...}" />
-                <marker date="1539890660249" expanded="true" signature="6451:6547" ph="/* pick &amp; play a random footstep sound from the array, ... */" />
-                <marker date="1539890660249" expanded="true" signature="6971:7893" ph="{...}" />
-                <marker date="1539890660249" expanded="true" signature="7051:7103" ph="{...}" />
-                <marker date="1539890660249" expanded="true" signature="7201:7615" ph="{...}" />
-                <marker date="1539890660249" expanded="true" signature="7632:7817" ph="{...}" />
-                <marker date="1539890660249" expanded="true" signature="7942:9223" ph="{...}" />
-                <marker date="1539890660249" expanded="true" signature="8224:8371" ph="/* On standalone builds, walk/run speed is modified by a key press. ... */" />
-                <marker date="1539890660249" expanded="true" signature="8727:8792" ph="{...}" />
-                <marker date="1539890660249" expanded="true" signature="8806:8942" ph="/* handle speed change to give an fov kick ... */" />
-                <marker date="1539890660249" expanded="true" signature="9052:9213" ph="{...}" />
-                <marker date="1539890660249" expanded="true" signature="9259:9349" ph="{...}" />
-                <marker date="1539890660249" expanded="true" signature="9423:9892" ph="{...}" />
-                <marker date="1539890660249" expanded="true" signature="9623:9675" ph="{...}" />
-                <marker date="1539890660249" expanded="true" signature="9726:9778" ph="{...}" />
+                <marker date="1540930871873" expanded="false" signature="6:148" ph="..." />
+                <marker date="1540930871873" expanded="true" signature="202:12423" ph="{...}" />
+                <marker date="1540930871873" expanded="true" signature="357:12421" ph="{...}" />
+                <marker date="1540930871873" expanded="true" signature="2683:3391" ph="{...}" />
+                <marker date="1540930871873" expanded="true" signature="3466:4247" ph="{...}" />
+                <marker date="1540930871873" expanded="true" signature="3606:3711" ph="{...}" />
+                <marker date="1540930871873" expanded="true" signature="3787:3976" ph="{...}" />
+                <marker date="1540930871873" expanded="true" signature="4065:4127" ph="{...}" />
+                <marker date="1540930871873" expanded="true" signature="4290:6348" ph="{...}" />
+                <marker date="1540930871873" expanded="true" signature="4339:4446" ph="{...}" />
+                <marker date="1540930871873" expanded="true" signature="5075:5182" ph="{...}" />
+                <marker date="1540930871873" expanded="true" signature="5206:5480" ph="/* calculate which leg is behind, so as to leave that leg trailing in the jump animation ... */" />
+                <marker date="1540930871873" expanded="true" signature="5769:5854" ph="{...}" />
+                <marker date="1540930871873" expanded="true" signature="5868:6048" ph="/* the anim speed multiplier allows the overall speed of walking/running to be tweaked in the inspector, ... */" />
+                <marker date="1540930871873" expanded="true" signature="6120:6206" ph="{...}" />
+                <marker date="1540930871873" expanded="true" signature="6223:6338" ph="{...}" />
+                <marker date="1540930871873" expanded="true" signature="6397:6541" ph="{...}" />
+                <marker date="1540930871873" expanded="true" signature="6578:8099" ph="{...}" />
+                <marker date="1540930871873" expanded="true" signature="7412:7716" ph="{...}" />
+                <marker date="1540930871873" expanded="true" signature="7508:7702" ph="{...}" />
+                <marker date="1540930871873" expanded="true" signature="7733:7847" ph="{...}" />
+                <marker date="1540930871873" expanded="true" signature="8138:8238" ph="{...}" />
+                <marker date="1540930871873" expanded="true" signature="8292:8805" ph="{...}" />
+                <marker date="1540930871873" expanded="true" signature="8405:8607" ph="{...}" />
+                <marker date="1540930871873" expanded="true" signature="8653:8705" ph="{...}" />
+                <marker date="1540930871873" expanded="true" signature="8848:9437" ph="{...}" />
+                <marker date="1540930871873" expanded="true" signature="8909:8961" ph="{...}" />
+                <marker date="1540930871873" expanded="true" signature="8974:9070" ph="/* pick &amp; play a random footstep sound from the array, ... */" />
+                <marker date="1540930871873" expanded="true" signature="9494:10416" ph="{...}" />
+                <marker date="1540930871873" expanded="true" signature="9574:9626" ph="{...}" />
+                <marker date="1540930871873" expanded="true" signature="9724:10138" ph="{...}" />
+                <marker date="1540930871873" expanded="true" signature="10155:10340" ph="{...}" />
+                <marker date="1540930871873" expanded="true" signature="10465:11746" ph="{...}" />
+                <marker date="1540930871873" expanded="true" signature="10747:10894" ph="/* On standalone builds, walk/run speed is modified by a key press. ... */" />
+                <marker date="1540930871873" expanded="true" signature="11250:11315" ph="{...}" />
+                <marker date="1540930871873" expanded="true" signature="11329:11465" ph="/* handle speed change to give an fov kick ... */" />
+                <marker date="1540930871873" expanded="true" signature="11575:11736" ph="{...}" />
+                <marker date="1540930871873" expanded="true" signature="11782:11872" ph="{...}" />
+                <marker date="1540930871873" expanded="true" signature="11946:12415" ph="{...}" />
+                <marker date="1540930871873" expanded="true" signature="12146:12198" ph="{...}" />
+                <marker date="1540930871873" expanded="true" signature="12249:12301" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonCharacter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-875">
+              <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
+              <folding>
+                <marker date="1540930114927" expanded="true" signature="72:7194" ph="{...}" />
+                <marker date="1540930114927" expanded="true" signature="247:7192" ph="{...}" />
+                <marker date="1540930114927" expanded="true" signature="1094:1514" ph="{...}" />
+                <marker date="1540930114927" expanded="true" signature="1573:2383" ph="{...}" />
+                <marker date="1540930114927" expanded="true" signature="1582:1736" ph="/* convert the world relative moveInput vector into a local-relative ... */" />
+                <marker date="1540930114927" expanded="true" signature="2120:2172" ph="{...}" />
+                <marker date="1540930114927" expanded="true" signature="2180:2220" ph="{...}" />
+                <marker date="1540930114927" expanded="true" signature="2430:3108" ph="{...}" />
+                <marker date="1540930114927" expanded="true" signature="2465:2620" ph="{...}" />
+                <marker date="1540930114927" expanded="true" signature="2628:3104" ph="{...}" />
+                <marker date="1540930114927" expanded="true" signature="2944:2994" ph="{...}" />
+                <marker date="1540930114927" expanded="true" signature="3147:3581" ph="{...}" />
+                <marker date="1540930114927" expanded="true" signature="3219:3577" ph="{...}" />
+                <marker date="1540930114927" expanded="true" signature="3535:3572" ph="{...}" />
+                <marker date="1540930114927" expanded="true" signature="3619:4877" ph="{...}" />
+                <marker date="1540930114927" expanded="true" signature="3919:3986" ph="{...}" />
+                <marker date="1540930114927" expanded="true" signature="3991:4247" ph="/* calculate which leg is behind, so as to leave that leg trailing in the jump animation ... */" />
+                <marker date="1540930114927" expanded="true" signature="4462:4517" ph="{...}" />
+                <marker date="1540930114927" expanded="true" signature="4522:4693" ph="/* the anim speed multiplier allows the overall speed of walking/running to be tweaked in the inspector, ... */" />
+                <marker date="1540930114927" expanded="true" signature="4736:4792" ph="{...}" />
+                <marker date="1540930114927" expanded="true" signature="4800:4873" ph="{...}" />
+                <marker date="1540930114927" expanded="true" signature="4911:5188" ph="{...}" />
+                <marker date="1540930114927" expanded="true" signature="5244:5622" ph="{...}" />
+                <marker date="1540930114927" expanded="true" signature="5394:5618" ph="{...}" />
+                <marker date="1540930114927" expanded="true" signature="5655:5918" ph="{...}" />
+                <marker date="1540930114927" expanded="true" signature="5951:6369" ph="{...}" />
+                <marker date="1540930114927" expanded="true" signature="5959:6098" ph="/* we implement this function to override the default root motion. ... */" />
+                <marker date="1540930114927" expanded="true" signature="6141:6365" ph="{...}" />
+                <marker date="1540930114927" expanded="true" signature="6398:7189" ph="{...}" />
+                <marker date="1540930114927" expanded="true" signature="6662:6841" ph="/* 0.1f is a small offset to start the ray from inside the character ... */" />
+                <marker date="1540930114927" expanded="true" signature="6957:7068" ph="{...}" />
+                <marker date="1540930114927" expanded="true" signature="7076:7185" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonUserControl.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="472">
+              <caret line="61" column="28" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="28" />
+              <folding>
+                <marker date="1540928782271" expanded="false" signature="6:78" ph="..." />
+                <marker date="1540928782271" expanded="true" signature="132:3018" ph="{...}" />
+                <marker date="1540928782271" expanded="true" signature="244:3016" ph="{...}" />
+                <marker date="1540928782271" expanded="true" signature="977:1694" ph="{...}" />
+                <marker date="1540928782271" expanded="true" signature="1076:1151" ph="{...}" />
+                <marker date="1540928782271" expanded="true" signature="1168:1518" ph="{...}" />
+                <marker date="1540928782271" expanded="true" signature="1726:1876" ph="{...}" />
+                <marker date="1540928782271" expanded="true" signature="1761:1866" ph="{...}" />
+                <marker date="1540928782271" expanded="true" signature="1968:3010" ph="{...}" />
+                <marker date="1540928782271" expanded="true" signature="2303:2546" ph="{...}" />
+                <marker date="1540928782271" expanded="true" signature="2563:2735" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -91,8 +308,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+            <state relative-caret-position="90">
+              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
               <folding>
                 <marker date="1539889422791" expanded="false" signature="6:78" ph="..." />
                 <marker date="1539889422791" expanded="true" signature="132:3540" ph="{...}" />
@@ -123,19 +340,38 @@
       <find>inputmana</find>
       <find>mou</find>
       <find>mouse</find>
+      <find>vlook</find>
+      <find>isWalking</find>
+      <find>loco</find>
+      <find>cross</find>
+      <find>jump</find>
+      <find>jumpinput</find>
+      <find>m_Animator</find>
+      <find>RunCycle</find>
+      <find>m_Rigidbody</find>
+      <find>k_half</find>
+      <find>forward</find>
+      <find>isGrounded</find>
+      <find>m_moveDir</find>
+      <find>forwardAmount</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonCharacter.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonUserControl.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs" />
+        <option value="$PROJECT_DIR$/Assets/Skinner/SkinnerParticle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonUserControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonCharacter.cs" />
         <option value="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" />
       </list>
     </option>
@@ -159,9 +395,6 @@
     </navigator>
     <panes>
       <pane id="FileSystemExplorer" />
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -178,12 +411,15 @@
         </subPane>
         <option name="show-hidden-items" value="false" />
       </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="first&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="skinn&#9;FILE&#9;file:///Users/carolineporter/Desktop/Studio1/UnityProjects/ShuyiandCaroline/Studio1_WalkingSim/Assets/Skinner/SkinnerDebug.cs&#10;skin&#9;FILE&#9;file:///Users/carolineporter/Desktop/Studio1/UnityProjects/ShuyiandCaroline/Studio1_WalkingSim/Assets/Skinner/SkinnerParticleTemplate.cs&#10;first&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunDashboard">
@@ -204,9 +440,9 @@
       <option name="pid" />
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="15265">
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" />
+      <option name="pid" value="15265" />
       <method v="2" />
     </configuration>
     <list>
@@ -227,6 +463,10 @@
       <workItem from="1539887735983" duration="4115000" />
       <workItem from="1540169246303" duration="4000" />
       <workItem from="1540169317688" duration="119000" />
+      <workItem from="1540169548926" duration="236000" />
+      <workItem from="1540320094338" duration="729000" />
+      <workItem from="1540493854662" duration="3752000" />
+      <workItem from="1540926816490" duration="2971000" />
     </task>
     <task id="LOCAL-00001" summary="Adding two FPSControllers to the scene. Code is changed so cameras and movement maps to two different controllers and camera follows two players.">
       <created>1539891615674</created>
@@ -256,11 +496,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540169401540</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added package that will make cool particle effects on our player characters. But I haven't figured out to make a skinned mesh of a walking person yet.">
+      <created>1540169692124</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1540169692124</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4238000" />
+    <option name="totallyTimeSpent" value="11926000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -273,14 +520,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="30" y="23" width="1579" height="963" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2563435" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2693559" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39954075" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -324,52 +572,29 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Skinner/SkinnerParticleTemplate.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Skinner/SkinnerDebug.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Skinner/Shader/ParticleKernels.cginc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Skinner/SkinnerParticle.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
-          <folding>
-            <marker date="1539890660249" expanded="false" signature="6:148" ph="..." />
-            <marker date="1539890660249" expanded="true" signature="202:9900" ph="{...}" />
-            <marker date="1539890660249" expanded="true" signature="357:9898" ph="{...}" />
-            <marker date="1539890660249" expanded="true" signature="2400:3043" ph="{...}" />
-            <marker date="1539890660249" expanded="true" signature="3118:3859" ph="{...}" />
-            <marker date="1539890660249" expanded="true" signature="3258:3363" ph="{...}" />
-            <marker date="1539890660249" expanded="true" signature="3439:3628" ph="{...}" />
-            <marker date="1539890660249" expanded="true" signature="3717:3779" ph="{...}" />
-            <marker date="1539890660249" expanded="true" signature="3901:4045" ph="{...}" />
-            <marker date="1539890660249" expanded="true" signature="4082:5576" ph="{...}" />
-            <marker date="1539890660249" expanded="true" signature="4916:5220" ph="{...}" />
-            <marker date="1539890660249" expanded="true" signature="5012:5206" ph="{...}" />
-            <marker date="1539890660249" expanded="true" signature="5237:5351" ph="{...}" />
-            <marker date="1539890660249" expanded="true" signature="5615:5715" ph="{...}" />
-            <marker date="1539890660249" expanded="true" signature="5769:6282" ph="{...}" />
-            <marker date="1539890660249" expanded="true" signature="5882:6084" ph="{...}" />
-            <marker date="1539890660249" expanded="true" signature="6130:6182" ph="{...}" />
-            <marker date="1539890660249" expanded="true" signature="6325:6914" ph="{...}" />
-            <marker date="1539890660249" expanded="true" signature="6386:6438" ph="{...}" />
-            <marker date="1539890660249" expanded="true" signature="6451:6547" ph="/* pick &amp; play a random footstep sound from the array, ... */" />
-            <marker date="1539890660249" expanded="true" signature="6971:7893" ph="{...}" />
-            <marker date="1539890660249" expanded="true" signature="7051:7103" ph="{...}" />
-            <marker date="1539890660249" expanded="true" signature="7201:7615" ph="{...}" />
-            <marker date="1539890660249" expanded="true" signature="7632:7817" ph="{...}" />
-            <marker date="1539890660249" expanded="true" signature="7942:9223" ph="{...}" />
-            <marker date="1539890660249" expanded="true" signature="8224:8371" ph="/* On standalone builds, walk/run speed is modified by a key press. ... */" />
-            <marker date="1539890660249" expanded="true" signature="8727:8792" ph="{...}" />
-            <marker date="1539890660249" expanded="true" signature="8806:8942" ph="/* handle speed change to give an fov kick ... */" />
-            <marker date="1539890660249" expanded="true" signature="9052:9213" ph="{...}" />
-            <marker date="1539890660249" expanded="true" signature="9259:9349" ph="{...}" />
-            <marker date="1539890660249" expanded="true" signature="9423:9892" ph="{...}" />
-            <marker date="1539890660249" expanded="true" signature="9623:9675" ph="{...}" />
-            <marker date="1539890660249" expanded="true" signature="9726:9778" ph="{...}" />
-          </folding>
+        <state relative-caret-position="690">
+          <caret line="313" column="55" selection-start-line="313" selection-start-column="55" selection-end-line="313" selection-end-column="55" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/BodyGuards/ReadMe.txt.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        <state relative-caret-position="90">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
           <folding>
             <marker date="1539889422791" expanded="false" signature="6:78" ph="..." />
             <marker date="1539889422791" expanded="true" signature="132:3540" ph="{...}" />
@@ -387,6 +612,117 @@
             <marker date="1539889422791" expanded="true" signature="2839:2965" ph="{...}" />
             <marker date="1539889422791" expanded="true" signature="3005:3128" ph="{...}" />
             <marker date="1539889422791" expanded="true" signature="3197:3531" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonUserControl.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="61" column="28" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="28" />
+          <folding>
+            <marker date="1540928782271" expanded="false" signature="6:78" ph="..." />
+            <marker date="1540928782271" expanded="true" signature="132:3018" ph="{...}" />
+            <marker date="1540928782271" expanded="true" signature="244:3016" ph="{...}" />
+            <marker date="1540928782271" expanded="true" signature="977:1694" ph="{...}" />
+            <marker date="1540928782271" expanded="true" signature="1076:1151" ph="{...}" />
+            <marker date="1540928782271" expanded="true" signature="1168:1518" ph="{...}" />
+            <marker date="1540928782271" expanded="true" signature="1726:1876" ph="{...}" />
+            <marker date="1540928782271" expanded="true" signature="1761:1866" ph="{...}" />
+            <marker date="1540928782271" expanded="true" signature="1968:3010" ph="{...}" />
+            <marker date="1540928782271" expanded="true" signature="2303:2546" ph="{...}" />
+            <marker date="1540928782271" expanded="true" signature="2563:2735" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonCharacter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-875">
+          <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
+          <folding>
+            <marker date="1540930114927" expanded="true" signature="72:7194" ph="{...}" />
+            <marker date="1540930114927" expanded="true" signature="247:7192" ph="{...}" />
+            <marker date="1540930114927" expanded="true" signature="1094:1514" ph="{...}" />
+            <marker date="1540930114927" expanded="true" signature="1573:2383" ph="{...}" />
+            <marker date="1540930114927" expanded="true" signature="1582:1736" ph="/* convert the world relative moveInput vector into a local-relative ... */" />
+            <marker date="1540930114927" expanded="true" signature="2120:2172" ph="{...}" />
+            <marker date="1540930114927" expanded="true" signature="2180:2220" ph="{...}" />
+            <marker date="1540930114927" expanded="true" signature="2430:3108" ph="{...}" />
+            <marker date="1540930114927" expanded="true" signature="2465:2620" ph="{...}" />
+            <marker date="1540930114927" expanded="true" signature="2628:3104" ph="{...}" />
+            <marker date="1540930114927" expanded="true" signature="2944:2994" ph="{...}" />
+            <marker date="1540930114927" expanded="true" signature="3147:3581" ph="{...}" />
+            <marker date="1540930114927" expanded="true" signature="3219:3577" ph="{...}" />
+            <marker date="1540930114927" expanded="true" signature="3535:3572" ph="{...}" />
+            <marker date="1540930114927" expanded="true" signature="3619:4877" ph="{...}" />
+            <marker date="1540930114927" expanded="true" signature="3919:3986" ph="{...}" />
+            <marker date="1540930114927" expanded="true" signature="3991:4247" ph="/* calculate which leg is behind, so as to leave that leg trailing in the jump animation ... */" />
+            <marker date="1540930114927" expanded="true" signature="4462:4517" ph="{...}" />
+            <marker date="1540930114927" expanded="true" signature="4522:4693" ph="/* the anim speed multiplier allows the overall speed of walking/running to be tweaked in the inspector, ... */" />
+            <marker date="1540930114927" expanded="true" signature="4736:4792" ph="{...}" />
+            <marker date="1540930114927" expanded="true" signature="4800:4873" ph="{...}" />
+            <marker date="1540930114927" expanded="true" signature="4911:5188" ph="{...}" />
+            <marker date="1540930114927" expanded="true" signature="5244:5622" ph="{...}" />
+            <marker date="1540930114927" expanded="true" signature="5394:5618" ph="{...}" />
+            <marker date="1540930114927" expanded="true" signature="5655:5918" ph="{...}" />
+            <marker date="1540930114927" expanded="true" signature="5951:6369" ph="{...}" />
+            <marker date="1540930114927" expanded="true" signature="5959:6098" ph="/* we implement this function to override the default root motion. ... */" />
+            <marker date="1540930114927" expanded="true" signature="6141:6365" ph="{...}" />
+            <marker date="1540930114927" expanded="true" signature="6398:7189" ph="{...}" />
+            <marker date="1540930114927" expanded="true" signature="6662:6841" ph="/* 0.1f is a small offset to start the ray from inside the character ... */" />
+            <marker date="1540930114927" expanded="true" signature="6957:7068" ph="{...}" />
+            <marker date="1540930114927" expanded="true" signature="7076:7185" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="114" column="61" lean-forward="true" selection-start-line="114" selection-start-column="61" selection-end-line="114" selection-end-column="61" />
+          <folding>
+            <marker date="1540930871873" expanded="false" signature="6:148" ph="..." />
+            <marker date="1540930871873" expanded="true" signature="202:12423" ph="{...}" />
+            <marker date="1540930871873" expanded="true" signature="357:12421" ph="{...}" />
+            <marker date="1540930871873" expanded="true" signature="2683:3391" ph="{...}" />
+            <marker date="1540930871873" expanded="true" signature="3466:4247" ph="{...}" />
+            <marker date="1540930871873" expanded="true" signature="3606:3711" ph="{...}" />
+            <marker date="1540930871873" expanded="true" signature="3787:3976" ph="{...}" />
+            <marker date="1540930871873" expanded="true" signature="4065:4127" ph="{...}" />
+            <marker date="1540930871873" expanded="true" signature="4290:6348" ph="{...}" />
+            <marker date="1540930871873" expanded="true" signature="4339:4446" ph="{...}" />
+            <marker date="1540930871873" expanded="true" signature="5075:5182" ph="{...}" />
+            <marker date="1540930871873" expanded="true" signature="5206:5480" ph="/* calculate which leg is behind, so as to leave that leg trailing in the jump animation ... */" />
+            <marker date="1540930871873" expanded="true" signature="5769:5854" ph="{...}" />
+            <marker date="1540930871873" expanded="true" signature="5868:6048" ph="/* the anim speed multiplier allows the overall speed of walking/running to be tweaked in the inspector, ... */" />
+            <marker date="1540930871873" expanded="true" signature="6120:6206" ph="{...}" />
+            <marker date="1540930871873" expanded="true" signature="6223:6338" ph="{...}" />
+            <marker date="1540930871873" expanded="true" signature="6397:6541" ph="{...}" />
+            <marker date="1540930871873" expanded="true" signature="6578:8099" ph="{...}" />
+            <marker date="1540930871873" expanded="true" signature="7412:7716" ph="{...}" />
+            <marker date="1540930871873" expanded="true" signature="7508:7702" ph="{...}" />
+            <marker date="1540930871873" expanded="true" signature="7733:7847" ph="{...}" />
+            <marker date="1540930871873" expanded="true" signature="8138:8238" ph="{...}" />
+            <marker date="1540930871873" expanded="true" signature="8292:8805" ph="{...}" />
+            <marker date="1540930871873" expanded="true" signature="8405:8607" ph="{...}" />
+            <marker date="1540930871873" expanded="true" signature="8653:8705" ph="{...}" />
+            <marker date="1540930871873" expanded="true" signature="8848:9437" ph="{...}" />
+            <marker date="1540930871873" expanded="true" signature="8909:8961" ph="{...}" />
+            <marker date="1540930871873" expanded="true" signature="8974:9070" ph="/* pick &amp; play a random footstep sound from the array, ... */" />
+            <marker date="1540930871873" expanded="true" signature="9494:10416" ph="{...}" />
+            <marker date="1540930871873" expanded="true" signature="9574:9626" ph="{...}" />
+            <marker date="1540930871873" expanded="true" signature="9724:10138" ph="{...}" />
+            <marker date="1540930871873" expanded="true" signature="10155:10340" ph="{...}" />
+            <marker date="1540930871873" expanded="true" signature="10465:11746" ph="{...}" />
+            <marker date="1540930871873" expanded="true" signature="10747:10894" ph="/* On standalone builds, walk/run speed is modified by a key press. ... */" />
+            <marker date="1540930871873" expanded="true" signature="11250:11315" ph="{...}" />
+            <marker date="1540930871873" expanded="true" signature="11329:11465" ph="/* handle speed change to give an fov kick ... */" />
+            <marker date="1540930871873" expanded="true" signature="11575:11736" ph="{...}" />
+            <marker date="1540930871873" expanded="true" signature="11782:11872" ph="{...}" />
+            <marker date="1540930871873" expanded="true" signature="11946:12415" ph="{...}" />
+            <marker date="1540930871873" expanded="true" signature="12146:12198" ph="{...}" />
+            <marker date="1540930871873" expanded="true" signature="12249:12301" ph="{...}" />
           </folding>
         </state>
       </provider>
