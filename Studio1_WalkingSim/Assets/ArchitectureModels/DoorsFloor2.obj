@@ -1,0 +1,32 @@
+# Alias OBJ Model File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+# File units = feet
+
+mtllib DoorsFloor2.mtl
+
+g Mesh1 Group3 Group2 Model
+
+usemtl FrontColor
+v -59.7141 21.6535 -159.873
+vt 29.9213 -1.18183e-27
+vn 1 3.46517e-15 1.13986e-14
+v -59.7141 29.8556 -159.873
+vt 29.9213 98.4252
+v -59.7141 29.8556 -157.379
+vt 0 98.4252
+v -59.7141 21.6535 -157.379
+vt 0 0
+f 1/1/1 2/2/1 3/3/1 4/4/1 
+
+g Mesh2 Group4 Group2 Model
+
+v -99.281 21.6535 -153.442
+vt 9.37964e-28 -2.6263e-28
+vn 4.12521e-15 1.15506e-15 -1
+v -99.281 29.8556 -153.442
+v -96.9844 29.8556 -153.442
+vt -27.5591 98.4252
+v -96.9844 21.6535 -153.442
+vt -27.5591 -1.31315e-28
+f 5/5/2 6/3/2 7/6/2 8/7/2 
+
