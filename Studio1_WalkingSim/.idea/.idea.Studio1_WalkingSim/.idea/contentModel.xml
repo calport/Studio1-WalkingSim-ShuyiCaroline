@@ -469,59 +469,6 @@
         <e p="Shaders" t="Include">
           <e p="FXMirror Reflection.shader" t="Include" />
         </e>
-        <e p="Skinner" t="Include">
-          <e p="Editor" t="Include">
-            <e p="SkinnerDebugEditor.cs" t="Include" />
-            <e p="SkinnerGlitchEditor.cs" t="Include" />
-            <e p="SkinnerGlitchTemplateEditor.cs" t="Include" />
-            <e p="SkinnerModelEditor.cs" t="Include" />
-            <e p="SkinnerParticleEditor.cs" t="Include" />
-            <e p="SkinnerParticleTemplateEditor.cs" t="Include" />
-            <e p="SkinnerSourceEditor.cs" t="Include" />
-            <e p="SkinnerTrailEditor.cs" t="Include" />
-            <e p="SkinnerTrailTemplateEditor.cs" t="Include" />
-          </e>
-          <e p="Internal" t="Include">
-            <e p="CullingStateController.cs" t="Include" />
-            <e p="SkinnerGlitchTemplate.cs" t="Include" />
-            <e p="SkinnerInternals.cs" t="Include" />
-          </e>
-          <e p="Shader" t="Include">
-            <e p="Common.cginc" t="Include" />
-            <e p="Debug.cginc" t="Include" />
-            <e p="Debug.shader" t="Include" />
-            <e p="GlitchKernels.cginc" t="Include" />
-            <e p="GlitchKernels.shader" t="Include" />
-            <e p="GlitchSurface.cginc" t="Include" />
-            <e p="GlitchSurface.shader" t="Include" />
-            <e p="ParticleKernels.cginc" t="Include" />
-            <e p="ParticleKernels.shader" t="Include" />
-            <e p="ParticleMotion.cginc" t="Include" />
-            <e p="ParticleSurface.cginc" t="Include" />
-            <e p="ParticleSurfaceStandard.shader" t="Include" />
-            <e p="ParticleSurfaceTwoSided.shader" t="Include" />
-            <e p="Replacement.cginc" t="Include" />
-            <e p="Replacement.shader" t="Include" />
-            <e p="ReplacementNormal.shader" t="Include" />
-            <e p="ReplacementPosition.shader" t="Include" />
-            <e p="ReplacementTangent.shader" t="Include" />
-            <e p="SimplexNoiseGrad3D.cginc" t="Include" />
-            <e p="SourcePlaceholder.shader" t="Include" />
-            <e p="TrailKernels.cginc" t="Include" />
-            <e p="TrailKernels.shader" t="Include" />
-            <e p="TrailMotion.cginc" t="Include" />
-            <e p="TrailSurface.cginc" t="Include" />
-            <e p="TrailSurface.shader" t="Include" />
-          </e>
-          <e p="SkinnerDebug.cs" t="Include" />
-          <e p="SkinnerGlitch.cs" t="Include" />
-          <e p="SkinnerModel.cs" t="Include" />
-          <e p="SkinnerParticle.cs" t="Include" />
-          <e p="SkinnerParticleTemplate.cs" t="Include" />
-          <e p="SkinnerSource.cs" t="Include" />
-          <e p="SkinnerTrail.cs" t="Include" />
-          <e p="SkinnerTrailTemplate.cs" t="Include" />
-        </e>
         <e p="Standard Assets" t="Include">
           <e p="2D" t="Include">
             <e p="Scripts" t="Include">
