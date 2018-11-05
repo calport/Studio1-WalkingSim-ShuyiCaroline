@@ -66,6 +66,7 @@ namespace UnityStandardAssets.Characters.FirstPerson
             m_NextStep = m_StepCycle/2f;
             m_Jumping = false;
             m_AudioSource = GetComponent<AudioSource>();
+        
 			m_MouseLook.Init(transform , m_Camera.transform);
             m_MouseLook.VLookInput = VerticalLookInput;
             m_MouseLook.HLookInput = HorizontalLookInput;
@@ -102,6 +103,9 @@ namespace UnityStandardAssets.Characters.FirstPerson
 
         void UpdateAnimator(Vector3 move)
         {
+            if (move.magnitude < .5f) {
+                move = Vector3.zero;
+            }
             if (move.magnitude > 0.1f)
             {
                 m_Animator.transform.forward = new Vector3(move.x, 0, move.z);
@@ -240,7 +244,9 @@ namespace UnityStandardAssets.Characters.FirstPerson
             // excluding sound at index 0
             int n = Random.Range(1, m_FootstepSounds.Length);
             m_AudioSource.clip = m_FootstepSounds[n];
-            m_AudioSource.PlayOneShot(m_AudioSource.clip);
+            m_AudioSource.volume = .8f;
+            m_AudioSource.pitch = 1 + Random.Range(-.05f, .05f);
+            m_AudioSource.Play();
             // move picked sound to index 0 so it's not picked next time
             m_FootstepSounds[n] = m_FootstepSounds[0];
             m_FootstepSounds[0] = m_AudioSource.clip;
