@@ -23,10 +23,16 @@
               <e p="About these PBR files.txt" t="Include" />
             </e>
           </e>
+          <e p="mossy-ground1-Unity" t="Include">
+            <e p="About these PBR files.txt" t="Include" />
+          </e>
           <e p="oakfloor_fb1-Unity" t="Include">
             <e p="About these PBR files.txt" t="Include" />
           </e>
           <e p="patchy_cement1_Unity" t="Include">
+            <e p="About these PBR files.txt" t="Include" />
+          </e>
+          <e p="rocky_dirt1-unity" t="Include">
             <e p="About these PBR files.txt" t="Include" />
           </e>
           <e p="rough-plaster-unity" t="Include">
@@ -36,6 +42,11 @@
         <e p="MirrorScripts" t="Include">
           <e p="MirrorReflection.cs" t="Include" />
           <e p="TriggerGlowingDoors.cs" t="Include" />
+        </e>
+        <e p="Mountain Terrain" t="Include">
+          <e p="Misc" t="Include">
+            <e p="CameraDefault.cs" t="Include" />
+          </e>
         </e>
         <e p="OnlineDownloads" t="Include">
           <e p="Almgp_particle_vol_1" t="Include">
